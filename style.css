@@ -1,0 +1,283 @@
+nav.content {
+  display: flex;
+  justify-content: space-between;
+  border: 0;
+  size: 24px;
+}
+
+button.sign-up {
+  background-color: blue;
+  color: white;
+}
+
+div.logo {
+  display: flex;
+  align-items: center;
+  font-family: poppis;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 18px;
+}
+
+button.brands {
+  background-color: blue;
+  color: white;
+  font-family: "poppins";
+}
+
+div.words {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+}
+
+.section_hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "poppins";
+  font-size: normal;
+}
+
+.figma_words {
+  font-family: "poppins";
+  text-align: center;
+  font-size: 48px;
+  font-style: normal;
+}
+
+.figma_text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  /* or 150% */
+
+  text-align: center;
+
+  /* Gray/500 */
+
+  color: #556987;
+}
+
+.section_content1 {
+  height: 276px;
+  padding: 50px;
+}
+
+.figma_list {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 70%;
+}
+
+.figma_list > div {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10%;
+  font-family: serif;
+}
+
+.big_text {
+  width: 261px;
+  height: 60px;
+  left: 293px;
+  top: 32px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+}
+
+.color_text {
+  width: 261px;
+  height: 30px;
+  left: 293px;
+  top: 100px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-size: 20px;
+  color: #556987;
+}
+
+.section_content2 {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+div.creator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: blue;
+}
+
+.love {
+  align-items: flex-end;
+  width: 500px;
+  margin: auto;
+  font-size: normal;
+  font-family: 700;
+}
+
+.figma_project {
+  font-family: "san-serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #556987;
+}
+
+.started {
+  padding: 30;
+  color: blue;
+}
+
+.mini_text {
+  /* margin: 0; */
+}
+
+.section_content3 {
+  display: flex;
+  margin: auto;
+  width: 80%;
+  justify-content: space-between;
+}
+
+.creator {
+  color: blue;
+}
+
+.Testimonal {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  width: 80%;
+  padding-top: 5%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 60px;
+}
+
+.connect {
+  display: flex;
+  margin: 20px;
+  width: 70%;
+  justify-content: center;
+  font-weight: 500;
+  font-size: 20px;
+  font-style: normal;
+  font-family: "poppins";
+  color: gray;
+  line-height: 30px;
+}
+
+.section_content4 {
+  width: 80%;
+  margin: auto;
+}
+
+.owners {
+  display: flex;
+  margin: 20px;
+  width: 80%px;
+  justify-content: space-evenly;
+}
+
+.content__Name {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.buttom_text {
+  margin-top: 50px;
+}
+
+.buttom__Name {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.down__Name {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.figma_end {
+  background-color: white;
+}
+
+.figma_end_container {
+  width: 80%;
+  margin: auto;
+  background-color: #1c232d;
+}
+
+.figma_end_div {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.figma_btn {
+  display: flex;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.reserved {
+  display: flex;
+  justify-content: center;
+}
+
+.footer_col {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer_col > a {
+  margin-top: 10px;
+}
+
+.footer_col > p {
+  display: flex;
+  align-items: center;
+}
+
+.learn_more {
+  background-color: #3b82f6;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.more {
+  background-color: #ffffff;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+}
